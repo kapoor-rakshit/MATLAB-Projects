@@ -62,7 +62,7 @@ nf='';
 guidata(hObject, handles);
 
 % UIWAIT makes guicalc wait for user response (see UIRESUME)
-% uiwait(handles.figure1);
+ % uiwait(handles.figure1);
 
 
 % --- Outputs from this function are returned to the command line.
