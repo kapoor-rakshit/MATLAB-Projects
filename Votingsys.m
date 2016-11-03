@@ -76,6 +76,7 @@ global f1 f2 f3 f4 f5;
 f1=0;f2=0;f3=0;f4=0;f5=0;
 global m1 m2 m3 m4 m5;
 m1=0;m2=0;m3=0;m4=0;m5=0;
+
 axes(handles.axes1);
 imshow('back.jpg');
 
